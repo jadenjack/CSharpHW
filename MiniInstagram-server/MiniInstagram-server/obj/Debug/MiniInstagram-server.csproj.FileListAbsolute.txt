@@ -1,0 +1,13 @@
+D:\Develop\Microsoft VS\HW\MiniInstagram-server\MiniInstagram-server\bin\Debug\MiniInstagram-server.exe.config
+D:\Develop\Microsoft VS\HW\MiniInstagram-server\MiniInstagram-server\bin\Debug\MiniInstagram-server.exe
+D:\Develop\Microsoft VS\HW\MiniInstagram-server\MiniInstagram-server\bin\Debug\MiniInstagram-server.pdb
+D:\Develop\Microsoft VS\HW\MiniInstagram-server\MiniInstagram-server\obj\Debug\MiniInstagram_server.Form1.resources
+D:\Develop\Microsoft VS\HW\MiniInstagram-server\MiniInstagram-server\obj\Debug\MiniInstagram_server.Properties.Resources.resources
+D:\Develop\Microsoft VS\HW\MiniInstagram-server\MiniInstagram-server\obj\Debug\MiniInstagram-server.csproj.GenerateResource.cache
+D:\Develop\Microsoft VS\HW\MiniInstagram-server\MiniInstagram-server\obj\Debug\MiniInstagram-server.csproj.CoreCompileInputs.cache
+D:\Develop\Microsoft VS\HW\MiniInstagram-server\MiniInstagram-server\obj\Debug\MiniInstagram-server.exe
+D:\Develop\Microsoft VS\HW\MiniInstagram-server\MiniInstagram-server\obj\Debug\MiniInstagram-server.pdb
+D:\Develop\Microsoft VS\HW\MiniInstagram-server\MiniInstagram-server\bin\Debug\PacketLibrary.dll
+D:\Develop\Microsoft VS\HW\MiniInstagram-server\MiniInstagram-server\bin\Debug\PacketLibrary.pdb
+D:\Develop\Microsoft VS\HW\MiniInstagram-server\MiniInstagram-server\obj\Debug\MiniInstagram-server.csprojResolveAssemblyReference.cache
+D:\Develop\Microsoft VS\HW\MiniInstagram-server\MiniInstagram-server\obj\Debug\MiniInstagram-server.csproj.CopyComplete

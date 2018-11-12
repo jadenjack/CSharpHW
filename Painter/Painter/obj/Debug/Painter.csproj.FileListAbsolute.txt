@@ -1,0 +1,10 @@
+D:\Develop\Microsoft VS\HW\Painter\Painter\bin\Debug\Painter.exe.config
+D:\Develop\Microsoft VS\HW\Painter\Painter\bin\Debug\Painter.exe
+D:\Develop\Microsoft VS\HW\Painter\Painter\bin\Debug\Painter.pdb
+D:\Develop\Microsoft VS\HW\Painter\Painter\obj\Debug\Painter.csprojResolveAssemblyReference.cache
+D:\Develop\Microsoft VS\HW\Painter\Painter\obj\Debug\Painter.Form1.resources
+D:\Develop\Microsoft VS\HW\Painter\Painter\obj\Debug\Painter.Properties.Resources.resources
+D:\Develop\Microsoft VS\HW\Painter\Painter\obj\Debug\Painter.csproj.GenerateResource.Cache
+D:\Develop\Microsoft VS\HW\Painter\Painter\obj\Debug\Painter.exe
+D:\Develop\Microsoft VS\HW\Painter\Painter\obj\Debug\Painter.pdb
+D:\Develop\Microsoft VS\HW\Painter\Painter\obj\Debug\Painter.Form2.resources

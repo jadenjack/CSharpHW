@@ -1,0 +1,34 @@
+D:\Develop\Microsoft VS\HW\MiniInstagram-client\MiniInstagram-client\bin\Debug\MiniInstagram-client.exe.config
+D:\Develop\Microsoft VS\HW\MiniInstagram-client\MiniInstagram-client\bin\Debug\MiniInstagram-client.exe
+D:\Develop\Microsoft VS\HW\MiniInstagram-client\MiniInstagram-client\bin\Debug\MiniInstagram-client.pdb
+D:\Develop\Microsoft VS\HW\MiniInstagram-client\MiniInstagram-client\obj\Debug\MiniInstagram-client.csprojResolveAssemblyReference.cache
+D:\Develop\Microsoft VS\HW\MiniInstagram-client\MiniInstagram-client\obj\Debug\MiniInstagram_client.Form1.resources
+D:\Develop\Microsoft VS\HW\MiniInstagram-client\MiniInstagram-client\obj\Debug\MiniInstagram_client.Form_home.resources
+D:\Develop\Microsoft VS\HW\MiniInstagram-client\MiniInstagram-client\obj\Debug\MiniInstagram_client.Form_mypage.resources
+D:\Develop\Microsoft VS\HW\MiniInstagram-client\MiniInstagram-client\obj\Debug\MiniInstagram_client.Form_search.resources
+D:\Develop\Microsoft VS\HW\MiniInstagram-client\MiniInstagram-client\obj\Debug\MiniInstagram_client.Form_upload.resources
+D:\Develop\Microsoft VS\HW\MiniInstagram-client\MiniInstagram-client\obj\Debug\MiniInstagram_client.Properties.Resources.resources
+D:\Develop\Microsoft VS\HW\MiniInstagram-client\MiniInstagram-client\obj\Debug\MiniInstagram-client.csproj.GenerateResource.cache
+D:\Develop\Microsoft VS\HW\MiniInstagram-client\MiniInstagram-client\obj\Debug\MiniInstagram-client.csproj.CoreCompileInputs.cache
+D:\Develop\Microsoft VS\HW\MiniInstagram-client\MiniInstagram-client\obj\Debug\MiniInstagram-client.exe
+D:\Develop\Microsoft VS\HW\MiniInstagram-client\MiniInstagram-client\obj\Debug\MiniInstagram-client.pdb
+D:\Develop\Microsoft VS\HW\MiniInstagram-client\MiniInstagram-client\bin\Debug\PacketLibrary.dll
+D:\Develop\Microsoft VS\HW\MiniInstagram-client\MiniInstagram-client\bin\Debug\PacketLibrary.pdb
+D:\Develop\Microsoft VS\HW\MiniInstagram-client\MiniInstagram-client\obj\Debug\MiniInstagram-client.csproj.CopyComplete
+C:\Users\jyc\Desktop\독수리\MiniInstagram-client\MiniInstagram-client\bin\Debug\MiniInstagram-client.exe.config
+C:\Users\jyc\Desktop\독수리\MiniInstagram-client\MiniInstagram-client\bin\Debug\MiniInstagram-client.exe
+C:\Users\jyc\Desktop\독수리\MiniInstagram-client\MiniInstagram-client\bin\Debug\MiniInstagram-client.pdb
+C:\Users\jyc\Desktop\독수리\MiniInstagram-client\MiniInstagram-client\bin\Debug\PacketLibrary.dll
+C:\Users\jyc\Desktop\독수리\MiniInstagram-client\MiniInstagram-client\bin\Debug\PacketLibrary.pdb
+C:\Users\jyc\Desktop\독수리\MiniInstagram-client\MiniInstagram-client\obj\Debug\MiniInstagram-client.csprojResolveAssemblyReference.cache
+C:\Users\jyc\Desktop\독수리\MiniInstagram-client\MiniInstagram-client\obj\Debug\MiniInstagram_client.Form1.resources
+C:\Users\jyc\Desktop\독수리\MiniInstagram-client\MiniInstagram-client\obj\Debug\MiniInstagram_client.Form_home.resources
+C:\Users\jyc\Desktop\독수리\MiniInstagram-client\MiniInstagram-client\obj\Debug\MiniInstagram_client.Form_mypage.resources
+C:\Users\jyc\Desktop\독수리\MiniInstagram-client\MiniInstagram-client\obj\Debug\MiniInstagram_client.Form_search.resources
+C:\Users\jyc\Desktop\독수리\MiniInstagram-client\MiniInstagram-client\obj\Debug\MiniInstagram_client.Form_upload.resources
+C:\Users\jyc\Desktop\독수리\MiniInstagram-client\MiniInstagram-client\obj\Debug\MiniInstagram_client.Properties.Resources.resources
+C:\Users\jyc\Desktop\독수리\MiniInstagram-client\MiniInstagram-client\obj\Debug\MiniInstagram-client.csproj.GenerateResource.cache
+C:\Users\jyc\Desktop\독수리\MiniInstagram-client\MiniInstagram-client\obj\Debug\MiniInstagram-client.csproj.CoreCompileInputs.cache
+C:\Users\jyc\Desktop\독수리\MiniInstagram-client\MiniInstagram-client\obj\Debug\MiniInstagram-client.csproj.CopyComplete
+C:\Users\jyc\Desktop\독수리\MiniInstagram-client\MiniInstagram-client\obj\Debug\MiniInstagram-client.exe
+C:\Users\jyc\Desktop\독수리\MiniInstagram-client\MiniInstagram-client\obj\Debug\MiniInstagram-client.pdb

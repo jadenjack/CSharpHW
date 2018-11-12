@@ -1,0 +1,6 @@
+D:\Develop\Microsoft VS\HW\MiniInstagram-server\PacketLibrary\bin\Debug\PacketLibrary.dll
+D:\Develop\Microsoft VS\HW\MiniInstagram-server\PacketLibrary\bin\Debug\PacketLibrary.pdb
+D:\Develop\Microsoft VS\HW\MiniInstagram-server\PacketLibrary\obj\Debug\PacketLibrary.csproj.CoreCompileInputs.cache
+D:\Develop\Microsoft VS\HW\MiniInstagram-server\PacketLibrary\obj\Debug\PacketLibrary.dll
+D:\Develop\Microsoft VS\HW\MiniInstagram-server\PacketLibrary\obj\Debug\PacketLibrary.pdb
+D:\Develop\Microsoft VS\HW\MiniInstagram-server\PacketLibrary\obj\Debug\PacketLibrary.csprojResolveAssemblyReference.cache

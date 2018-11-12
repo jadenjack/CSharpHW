@@ -1,0 +1,10 @@
+D:\Develop\Microsoft VS\HW\MyExplorer\MyExplorer\obj\Debug\MyExplorer.csprojResolveAssemblyReference.cache
+D:\Develop\Microsoft VS\HW\MyExplorer\MyExplorer\obj\Debug\MyExplorer.Form1.resources
+D:\Develop\Microsoft VS\HW\MyExplorer\MyExplorer\obj\Debug\MyExplorer.Properties.Resources.resources
+D:\Develop\Microsoft VS\HW\MyExplorer\MyExplorer\obj\Debug\MyExplorer.csproj.GenerateResource.cache
+D:\Develop\Microsoft VS\HW\MyExplorer\MyExplorer\obj\Debug\MyExplorer.csproj.CoreCompileInputs.cache
+D:\Develop\Microsoft VS\HW\MyExplorer\MyExplorer\bin\Debug\MyExplorer.exe.config
+D:\Develop\Microsoft VS\HW\MyExplorer\MyExplorer\bin\Debug\MyExplorer.exe
+D:\Develop\Microsoft VS\HW\MyExplorer\MyExplorer\bin\Debug\MyExplorer.pdb
+D:\Develop\Microsoft VS\HW\MyExplorer\MyExplorer\obj\Debug\MyExplorer.exe
+D:\Develop\Microsoft VS\HW\MyExplorer\MyExplorer\obj\Debug\MyExplorer.pdb

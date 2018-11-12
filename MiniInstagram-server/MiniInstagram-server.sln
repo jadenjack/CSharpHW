@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2015
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MiniInstagram-server", "MiniInstagram-server\MiniInstagram-server.csproj", "{6FE31F06-3801-4A08-8790-80F790CAF7E1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MiniInstagram-client", "..\MiniInstagram-client\MiniInstagram-client\MiniInstagram-client.csproj", "{C2BDCFA9-2E61-4D36-98F8-505C4FFDC4BC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PacketLibrary", "PacketLibrary\PacketLibrary.csproj", "{EA87BAD9-54C1-4E7E-A22F-9C52783B9659}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6FE31F06-3801-4A08-8790-80F790CAF7E1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6FE31F06-3801-4A08-8790-80F790CAF7E1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6FE31F06-3801-4A08-8790-80F790CAF7E1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6FE31F06-3801-4A08-8790-80F790CAF7E1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C2BDCFA9-2E61-4D36-98F8-505C4FFDC4BC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C2BDCFA9-2E61-4D36-98F8-505C4FFDC4BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C2BDCFA9-2E61-4D36-98F8-505C4FFDC4BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C2BDCFA9-2E61-4D36-98F8-505C4FFDC4BC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EA87BAD9-54C1-4E7E-A22F-9C52783B9659}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EA87BAD9-54C1-4E7E-A22F-9C52783B9659}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EA87BAD9-54C1-4E7E-A22F-9C52783B9659}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EA87BAD9-54C1-4E7E-A22F-9C52783B9659}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F17772A3-B362-434F-8F5A-6C00EABC731C}
+	EndGlobalSection
+EndGlobal
